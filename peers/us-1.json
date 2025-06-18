@@ -1,4 +1,4 @@
-{
+[{
     "name": "kioubit",
     "as_num": "4242423914",
     "end_point": "us3.g-load.eu",
@@ -6,4 +6,12 @@
     "public_key": "sLbzTRr2gfLFb24NPzDOpy8j09Y6zI+a7NkeVMdVSR8=",
     "peer_ipv4": "172.20.53.103",
     "peer_ipv6": "fdfc:e23f:fb45:3234::9"
-}
+},{
+    "name": "ideon",
+    "as_num": "4242422189",
+    "end_point": "us-sjc.dn42.iedon.net",
+    "end_point_port": "45110",
+    "public_key": "Sz0UhewjDk2yRKI0QL9rB+5daWpXFVlbbz9cLfVVLn4=",
+    "peer_ipv4": "172.23.91.117",
+    "peer_ipv6": "fd42:4242:2189:e8::1"
+}]
