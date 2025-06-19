@@ -13,3 +13,11 @@ config for peering with AS4242423077
 |ipv6_addr| fd48:fa31:502b:10::2 | fd48:fa31:502b:10::4 |
 |mp_bgp| disabled | disabled |
 |extend_nexthop| disabled | disabled |
+
+# communities info
+64511:1-39 connection info communities are stripped, I'm not using this for route select
+64511:41-70 see https://dn42.eu/howto/BGP-communities
+64511:1000-1999 see https://dn42.eu/howto/BGP-communities
+
+4242423077:1:41-70 route is learn outside of my network, learning from dn42_region
+4242423077:1:1000-1999 route is learn outside of my network, learning from dn42_country
