@@ -14,4 +14,12 @@
     "public_key": "Sz0UhewjDk2yRKI0QL9rB+5daWpXFVlbbz9cLfVVLn4=",
     "peer_ipv4": "172.23.91.117",
     "peer_ipv6": "fd42:4242:2189:e8::1"
+},{
+    "name": "lare",
+    "as_num": "AS4242423035",
+    "end_point": "usw1.dn42.lare.cc",
+    "end_point_port": "23077",
+    "public_key": "Qd2XCotubH4QrQIdTZjYG4tFs57DqN7jawO9vGz+XWM=",
+    "peer_ipv4": "172.22.125.132",
+    "peer_ipv6": "fd63:5d40:47e5::132"
 }]
