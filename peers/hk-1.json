@@ -6,4 +6,12 @@
     "public_key": "sLbzTRr2gfLFb24NPzDOpy8j09Y6zI+a7NkeVMdVSR8=",
     "peer_ipv4": "172.20.53.105",
     "peer_ipv6": "fdfc:e23f:fb45:3234::11"
+},{
+    "name": "ideon",
+    "as_num": "4242422189",
+    "end_point": "hk-hkg.dn42.iedon.net",
+    "end_point_port": "54240",
+    "public_key": "OlUDuWkUI9pKNsNo7Vjf/GKKVSBslh9kmqjbeYA4+34=",
+    "peer_ipv4": "172.23.91.120",
+    "peer_ipv6": "fd42:4242:2189:120::1"
 }]
