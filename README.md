@@ -15,9 +15,17 @@ config for peering with AS4242423077
 |extend_nexthop| disabled | disabled |
 
 # communities info
-64511:1-39 connection info communities are stripped, I'm not using this for route select
-64511:41-70 see https://dn42.eu/howto/BGP-communities
-64511:1000-1999 see https://dn42.eu/howto/BGP-communities
+| communities | description|
+| --- | --- |
+| 64511:1-39 | connection info communities are stripped, I'm not using this for route select|
+| 64511:41-70 | see https://dn42.eu/howto/BGP-communities |
+| 64511:1000-1999 | see https://dn42.eu/howto/BGP-communities |
+| 4242423077:1:41-70 | route is learn outside of my network, learning from dn42_region |
+| 4242423077:1:1000-1999 | route is learn outside of my network, learning from dn42_country |
 
-4242423077:1:41-70 route is learn outside of my network, learning from dn42_region
-4242423077:1:1000-1999 route is learn outside of my network, learning from dn42_country
+# route filter policies
+## received
+1. only rpki valid routes are accepted.
+2. routes with as_path length >8 are rejected.
+## sent
+1. only my routes are sent by default.
