@@ -30,4 +30,12 @@
     "public_key": "yZvBa83e7ywrZearK1nuAL37gVY1vbVBWbRdIj7HVEo=",
     "peer_ipv4": "172.20.19.70",
     "peer_ipv6": "fdb1:e72a:343d::7"
+},{
+    "name": "potat0",
+    "as_num": "4242421816",
+    "end_point": "las.node.potat0.cc",
+    "end_point_port": "23077",
+    "public_key": "LUwqKS6QrCPv510Pwt1eAIiHACYDsbMjrkrbGTJfviU=",
+    "peer_ipv4": "172.23.246.3",
+    "peer_ipv6": "fd2c:1323:4042::3"
 }]
