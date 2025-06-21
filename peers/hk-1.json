@@ -14,4 +14,12 @@
     "public_key": "OlUDuWkUI9pKNsNo7Vjf/GKKVSBslh9kmqjbeYA4+34=",
     "peer_ipv4": "172.23.91.120",
     "peer_ipv6": "fd42:4242:2189:120::1"
+},{
+    "name": "routebits",
+    "as_num": "4242420207",
+    "end_point": "router.sin1.routedbits.com",
+    "end_point_port": "53077",
+    "public_key": "8sTnWN7ykPaDe1WIZOlnqECiGMJzwXB8TXWHcT7qnEw=",
+    "peer_ipv4": "172.20.19.81",
+    "peer_ipv6": "fdb1:e72a:343d::12"
 }]

@@ -22,4 +22,12 @@
     "public_key": "Qd2XCotubH4QrQIdTZjYG4tFs57DqN7jawO9vGz+XWM=",
     "peer_ipv4": "172.22.125.132",
     "peer_ipv6": "fd63:5d40:47e5::132"
+},{
+    "name": "routebits",
+    "as_num": "4242420207",
+    "end_point": "router.fnc1.routedbits.com",
+    "end_point_port": "53077",
+    "public_key": "yZvBa83e7ywrZearK1nuAL37gVY1vbVBWbRdIj7HVEo=",
+    "peer_ipv4": "172.20.19.70",
+    "peer_ipv6": "fdb1:e72a:343d::7"
 }]
