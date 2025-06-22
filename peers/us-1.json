@@ -62,4 +62,12 @@
     "public_key": "L4+efr10ZM0J80nDeO5mHw25nq9LC5UBrYtP8T1I9n4=",
     "peer_ipv4": "172.22.66.95",
     "peer_ipv6": "fd94:dba8:42b0:bbbb::1"
+},{
+    "name": "moe233",
+    "as_num": "4242420253",
+    "end_point": "lv.dn42.moe233.net",
+    "end_point_port": "23077",
+    "public_key": "C3SneO68SmagisYQ3wi5tYI2R9g5xedKkB56Y7rtPUo=",
+    "peer_ipv4": "172.23.69.161",
+    "peer_ipv6": "fd05:4b:cce::1"
 }]
