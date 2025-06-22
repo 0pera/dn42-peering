@@ -38,4 +38,12 @@
     "public_key": "LUwqKS6QrCPv510Pwt1eAIiHACYDsbMjrkrbGTJfviU=",
     "peer_ipv4": "172.23.246.3",
     "peer_ipv6": "fd2c:1323:4042::3"
+},{
+    "name": "sunnet",
+    "as_num": "4242423088",
+    "end_point": "sjc1-us.dn42.6700.cc",
+    "end_point_port": "23077",
+    "public_key": "G/ggwlVSy5jKWFlJM01hxcWnL8VDXsD5EXZ/S47SmhM=",
+    "peer_ipv4": "172.21.100.191",
+    "peer_ipv6": "fdc8:dc88:ee11:191::1"
 }]
