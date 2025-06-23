@@ -25,7 +25,12 @@ config for peering with AS4242423077
 
 # route filter policies
 ## received
-1. only rpki valid routes are accepted.
-2. routes with as_path length >8 are rejected.
+1. only 172.20.0.0/14 are accepted in ipv4 channel.
+2. only rpki valid routes are accepted, invalid and unknown routes are rejected.
+3. routes with as_path length >8 are rejected.
 ## sent
 1. only my routes are sent by default.
+
+
+# Planing
+1. switch to trasit by default.
