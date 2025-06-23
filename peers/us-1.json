@@ -70,4 +70,12 @@
     "public_key": "C3SneO68SmagisYQ3wi5tYI2R9g5xedKkB56Y7rtPUo=",
     "peer_ipv4": "172.23.69.161",
     "peer_ipv6": "fd05:4b:cce::1"
+},{
+    "name": "highdef",
+    "as_num": "4242421080",
+    "end_point": "sjc.peer.highdef.network",
+    "end_point_port": "21080",
+    "public_key": "Kz7mZN2ACCXSFKMiZDIVdVRmEPSnVfbEOqsxsDZ6hAw=",
+    "peer_ipv4": "172.22.108.34",
+    "peer_ipv6": "fd86:bad:11b7:34::1"
 }]

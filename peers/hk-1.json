@@ -38,4 +38,12 @@
     "public_key": "rBTH+JyZB0X/DkwHByrCjCojxBKr/kEOm1dTAFGHR1w=",
     "peer_ipv4": "172.21.100.192",
     "peer_ipv6": "fdc8:dc88:ee11:192::1"
+},{
+    "name": "highdef",
+    "as_num": "4242421080",
+    "end_point": "hkg.peer.highdef.network",
+    "end_point_port": "21080",
+    "public_key": "eedTHubyl5caiHH50GkknQa8SQtAF8q7aqmL26w5qSs=",
+    "peer_ipv4": "172.22.108.38",
+    "peer_ipv6": "fd86:bad:11b7:238::1"
 }]
