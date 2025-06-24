@@ -78,6 +78,7 @@
     "public_key": "zyATu8FW392WFFNAz7ZH6+4TUutEYEooPPirwcoIiXo=",
     "peer_ipv4": "172.22.76.185",
     "peer_ipv6": "fdbc:f9dc:67ad:3::1"
+},{
     "name": "highdef",
     "as_num": "4242421080",
     "end_point": "sjc.peer.highdef.network",
