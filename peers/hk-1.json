@@ -15,6 +15,14 @@
     "peer_ipv4": "172.23.91.120",
     "peer_ipv6": "fd42:4242:2189:120::1"
 },{
+    "name": "lare",
+    "as_num": "4242423035",
+    "end_point": "jp01.dn42.lare.cc",
+    "end_point_port": "23077",
+    "public_key": "oTPdRylNhX2O80e6rLejT9Fwzo7KWKZ7a3PUF4G9oEM=",
+    "peer_ipv4": "172.22.125.134",
+    "peer_ipv6": "fd63:5d40:47e5::134"
+},{
     "name": "routebits",
     "as_num": "4242420207",
     "end_point": "router.sin1.routedbits.com",
