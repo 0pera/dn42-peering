@@ -15,6 +15,14 @@
     "peer_ipv4": "172.23.91.120",
     "peer_ipv6": "fd42:4242:2189:120::1"
 },{
+    "name": "lare",
+    "as_num": "4242423035",
+    "end_point": "jp01.dn42.lare.cc",
+    "end_point_port": "23077",
+    "public_key": "oTPdRylNhX2O80e6rLejT9Fwzo7KWKZ7a3PUF4G9oEM=",
+    "peer_ipv4": "172.22.125.134",
+    "peer_ipv6": "fd63:5d40:47e5::134"
+},{
     "name": "routebits",
     "as_num": "4242420207",
     "end_point": "router.sin1.routedbits.com",
@@ -46,4 +54,11 @@
     "public_key": "xelzwt1j0aoKjsQnnq8jMjZNLbLucBPwPTvHgFH/czs=",
     "peer_ipv4": "172.22.76.186",
     "peer_ipv6": "fdbc:f9dc:67ad:1::1"
+    "name": "highdef",
+    "as_num": "4242421080",
+    "end_point": "hkg.peer.highdef.network",
+    "end_point_port": "23077",
+    "public_key": "eedTHubyl5caiHH50GkknQa8SQtAF8q7aqmL26w5qSs=",
+    "peer_ipv4": "172.22.108.38",
+    "peer_ipv6": "fd86:bad:11b7:238::1"
 }]
