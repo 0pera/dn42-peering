@@ -70,4 +70,12 @@
     "public_key": "C3SneO68SmagisYQ3wi5tYI2R9g5xedKkB56Y7rtPUo=",
     "peer_ipv4": "172.23.69.161",
     "peer_ipv6": "fd05:4b:cce::1"
+},{
+    "name": "lantian",
+    "as_num": "4242422547",
+    "end_point": "bwg-lax.lantian.pub",
+    "end_point_port": "23077",
+    "public_key": "zyATu8FW392WFFNAz7ZH6+4TUutEYEooPPirwcoIiXo=",
+    "peer_ipv4": "172.22.76.185",
+    "peer_ipv6": "fdbc:f9dc:67ad:3::1"
 }]
