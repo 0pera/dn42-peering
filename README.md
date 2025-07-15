@@ -15,22 +15,30 @@ config for peering with AS4242423077
 |extend_nexthop| disabled | disabled |
 
 # communities info
+communities listed below shall be transited across ASes, you should `keep` these communities when transiting prefixes to another AS.
+| communities | description|
+| --- | --- |
+| 64511:41-70 | prefixes originated from, see https://dn42.eu/howto/BGP-communities |
+| 64511:1000-1999 | prefixes originated from, see https://dn42.eu/howto/BGP-communities |
+
+communities listed below shall `not` be transited across ASes, you should `delete` these communities when transiting prefixes to another AS.
 | communities | description|
 | --- | --- |
 | 64511:1-39 | connection info communities are stripped, I'm not using this for route select|
-| 64511:41-70 | see https://dn42.eu/howto/BGP-communities |
-| 64511:1000-1999 | see https://dn42.eu/howto/BGP-communities |
-| 4242423077:1:41-70 | route is learn outside of my network, learning from dn42_region |
-| 4242423077:1:1000-1999 | route is learn outside of my network, learning from dn42_country |
+| 4242423077:1:41-70 | prefixes are learned from dn42_region |
+| 4242423077:1:1000-1999 | prefixes are learned from dn42_country |
+| 4242423077:2:41-70 | prefixes that should `not` advertised to dn42_region |
+| 4242423077:2:1000-1999 | prefixes that should `not` advertised to dn42_country |
+| 4242423077:3:41-70 | prefixes that should `only` advertised to dn42_region |
+| 4242423077:3:1000-1999 | prefixes that should `only` advertised to dn42_country |
 
-# route filter policies
+# route policies
 ## received
-1. only 172.20.0.0/14 are accepted in ipv4 channel.
-2. only rpki valid routes are accepted, invalid and unknown routes are rejected.
-3. routes with as_path length >8 are rejected.
-## sent
-1. only my routes are sent by default.
+1. only prefixes in 172.20.0.0/14 are accepted in ipv4 channel.
+2. only rpki valid prefixes are accepted, invalid and unknown prefixes are rejected.
+3. prefixes with as_path length >8 are rejected.
 
-
-# Planing
-1. switch to trasit by default.
+## transit
+1. if a prefix is learned from AS1, it will not be advertised to AS1.
+2. if a prefix is originated from AS1, it will not be advertised to AS1.
+3. prefixes are not transited between CN and global.
