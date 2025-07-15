@@ -47,6 +47,14 @@
     "peer_ipv4": "172.21.100.192",
     "peer_ipv6": "fdc8:dc88:ee11:192::1"
 },{
+    "name": "lantian",
+    "as_num": "4242422547",
+    "end_point": "v-ps-hkg.lantian.pub",
+    "end_point_port": "23077",
+    "public_key": "xelzwt1j0aoKjsQnnq8jMjZNLbLucBPwPTvHgFH/czs=",
+    "peer_ipv4": "172.22.76.186",
+    "peer_ipv6": "fdbc:f9dc:67ad:1::1"
+},{
     "name": "highdef",
     "as_num": "4242421080",
     "end_point": "hkg.peer.highdef.network",
