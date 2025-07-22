@@ -10,7 +10,8 @@ config for peering with AS4242423077
 |endpoint port| 20000+<last 4 digits of you asn> | 20000+<last 4 digits of you asn> |
 |as_num| 4242423077 | 4242423077 |
 |ipv4_addr| 172.23.183.129 | 172.23.183.131 |
-|ipv6_addr| fd48:fa31:502b:10::2 | fd48:fa31:502b:10::4 |
+|ipv6_addr| fd48:fa31:502b:10::2(preferred) | fd48:fa31:502b:10::4(preferred) |
+|ipv6_linklocal| fe80::3077(experimental) | fe80::3077(experimental) |
 |mp_bgp| disabled | disabled |
 |extend_nexthop| disabled | disabled |
 
