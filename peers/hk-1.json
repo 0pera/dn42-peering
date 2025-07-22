@@ -70,4 +70,12 @@
     "public_key": "ifN+KmnL5XLHG8nDi2nN9l26snGUP/1157p8mOSPE1c=",
     "peer_ipv4": "172.22.66.95",
     "peer_ipv6": "fd94:dba8:42b0:bbbb::1"
+},{
+    "name": "kskb",
+    "as_num": "4242421817",
+    "end_point": "jp.kskb.eu.org",
+    "end_point_port": "23077",
+    "public_key": "LDtwAj4hsCOmZEnAcb2uzOH5FP1q43ploOoG/8tDeC4=",
+    "peer_ipv4": "172.22.77.47",
+    "peer_ipv6": "fd28:cb8f:4c92:7777::7"
 }]
