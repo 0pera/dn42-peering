@@ -62,4 +62,12 @@
     "public_key": "eedTHubyl5caiHH50GkknQa8SQtAF8q7aqmL26w5qSs=",
     "peer_ipv4": "172.22.108.38",
     "peer_ipv6": "fd86:bad:11b7:238::1"
+},{
+    "name": "whojk",
+    "as_num": "4242422717",
+    "end_point": "tw.vm.whojk.com",
+    "end_point_port": "23032",
+    "public_key": "ifN+KmnL5XLHG8nDi2nN9l26snGUP/1157p8mOSPE1c=",
+    "peer_ipv4": "172.22.66.95",
+    "peer_ipv6": "fd94:dba8:42b0:bbbb::1"
 }]
