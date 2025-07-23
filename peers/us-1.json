@@ -86,4 +86,13 @@
     "public_key": "Kz7mZN2ACCXSFKMiZDIVdVRmEPSnVfbEOqsxsDZ6hAw=",
     "peer_ipv4": "172.22.108.34",
     "peer_ipv6": "fd86:bad:11b7:34::1"
+},{
+    "name": "tech9",
+    "as_num": "4242421588",
+    "end_point": "us-chi01.dn42.tech9.io",
+    "end_point_port": "55282",
+    "public_key": "0kb8ffMcbx8oXZ3Ii5khOuCzmRqM2Cy0IslmrWtRGSk=",
+    "peer_ipv4": "172.20.16.139",
+    "ipv6-link-local_remote": "feuo::1588",
+    "ipv6-link-local_local": "fe80::100"
 }]
