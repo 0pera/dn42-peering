@@ -104,4 +104,12 @@
     "peer_ipv4": "172.20.132.96",
     "ipv6-link-local_remote": "fe80::150",
     "ipv6-link-local_local": "fe80::100"
+},{
+    "name": "prefixlabs",
+    "as_num": "4242421240",
+    "end_point": "us-03.prefixlabs.net",
+    "end_point_port": "23077",
+    "public_key": "oNabDMpFKum4CRbvPcwVE0Y4QsAfH0Sh439dfQYhnkQ=",
+    "peer_ipv4": "172.20.209.13",
+    "peer_ipv6": "fde4:c438:5e60:4::1"
 }]
