@@ -16,6 +16,7 @@ config for peering with AS4242423077
 |extend_nexthop| disabled | disabled |
 
 # communities info
+## infomation communities
 communities listed below shall be transited across ASes, you should `keep` these communities when transiting prefixes to another AS.
 | communities | description|
 | --- | --- |
@@ -32,6 +33,14 @@ communities listed below shall `not` be transited across ASes, you should `delet
 | 4242423077:2:1000-1999 | prefixes that should `not` advertised to dn42_country |
 | 4242423077:3:41-70 | prefixes that should `only` advertised to dn42_region |
 | 4242423077:3:1000-1999 | prefixes that should `only` advertised to dn42_country |
+
+## control communities
+Communities below are supported, and will be processed.
+| communities | description|
+| --- | --- |
+| blackhole | routes with blackhole community will be marked blackhole and traffic will be drop because rp_filter setto loose |
+| no_export | routes with no-export community will not be exported to other ASes |
+| no_advertise | routes with no-advertise community will not be advertise to other nodes of my network or other Peers |
 
 # route policies
 ## received
