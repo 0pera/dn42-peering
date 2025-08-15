@@ -112,4 +112,13 @@
     "public_key": "oNabDMpFKum4CRbvPcwVE0Y4QsAfH0Sh439dfQYhnkQ=",
     "peer_ipv4": "172.20.209.13",
     "peer_ipv6": "fde4:c438:5e60:4::1"
+},{
+    "name": "sdubs",
+    "as_num": "4242420202",
+    "end_point": "dn10.lax.us.sdubs.vip",
+    "end_point_port": "23077",
+    "public_key": "7Iif3zxkWZXdBr4jTvTftpZ7B16LyHb4ivPnKMuhoC4=",
+    "peer_ipv4": "172.20.32.10",
+    "ipv6-link-local_remote": "fe80::202:10",
+    "ipv6-link-local_local": "fe80::3077"
 }]

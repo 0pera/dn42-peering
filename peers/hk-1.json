@@ -95,4 +95,13 @@
     "public_key": "FzWgCU4/y4pyGibDF5UYS13LvDCQ3569uNZJRUEIXiI=",
     "peer_ipv4": "172.20.209.16",
     "peer_ipv6": "fde4:c438:5e60:7::1"
+},{
+    "name": "sdubs",
+    "as_num": "4242420202",
+    "end_point": "dn02.hk.hk.sdubs.vip",
+    "end_point_port": "23077",
+    "public_key": "5YcwL93bhJqzhTxi9b1Z1ZRt2UfGVoP5jMA+UXma6HM=",
+    "peer_ipv4": "172.20.32.2",
+    "ipv6-link-local_remote": "fe80::202:2",
+    "ipv6-link-local_local": "fe80::3077"
 }]
