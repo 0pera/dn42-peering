@@ -92,9 +92,9 @@
     "end_point": "us-chi01.dn42.tech9.io",
     "end_point_port": "55282",
     "public_key": "0kb8ffMcbx8oXZ3Ii5khOuCzmRqM2Cy0IslmrWtRGSk=",
-    "peer_ipv4": "172.20.16.139",
     "ipv6-link-local_remote": "fe80::1588",
-    "ipv6-link-local_local": "fe80::100"
+    "ipv6-link-local_local": "fe80::100",
+    "mp_bgp": true
 },{
     "name": "darkpoint",
     "as_num": "4242420150",

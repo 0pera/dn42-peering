@@ -84,9 +84,9 @@
     "end_point": "sg-sin01.dn42.tech9.io",
     "end_point_port": "57907",
     "public_key": "4qLIJ9zpc/Xgvy+uo90rGso75cSrT2F5tBEv+6aqDkY=",
-    "peer_ipv4": "172.20.16.142",
     "ipv6-link-local_remote": "fe80::1588",
-    "ipv6-link-local_local": "fe80::100"
+    "ipv6-link-local_local": "fe80::100",
+    "mp_bgp": true
 },{
     "name": "prefixlabs",
     "as_num": "4242421240",
