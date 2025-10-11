@@ -95,4 +95,13 @@
     "public_key": "FzWgCU4/y4pyGibDF5UYS13LvDCQ3569uNZJRUEIXiI=",
     "peer_ipv4": "172.20.209.16",
     "peer_ipv6": "fde4:c438:5e60:7::1"
+},{
+    "name": "maraun",
+    "as_num": "4242422225",
+    "end_point": "dn42-sg.maraun.de",
+    "end_point_port": "23077",
+    "public_key": "rWTIK93+XJaP4sRvrk1gqXxAZgkz6y/axLC4mjuay1I=",
+    "ipv6-link-local_remote": "fe80::2225",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
