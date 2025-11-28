@@ -104,4 +104,13 @@
     "ipv6-link-local_remote": "fe80::2225",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "darkpoint",
+    "as_num": "4242420150",
+    "end_point": "sin.darkpoint.xyz",
+    "end_point_port": "23077",
+    "public_key": "LbAFxxPonoNUzWiaxa/ulNYfv0d729DG6qAmg2X5egc=",
+    "ipv6-link-local_remote": "fe80::150",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
