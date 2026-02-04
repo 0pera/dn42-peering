@@ -38,7 +38,7 @@ communities listed below shall `not` be transited across ASes, you should `delet
 Communities below are supported, and will be processed.
 | communities | description|
 | --- | --- |
-| blackhole | routes with blackhole community will be marked blackhole and traffic will be drop because rp_filter setto loose |
+| blackhole | routes with blackhole community will be marked blackhole and traffic will be drop because rp_filter set to loose |
 | no_export | routes with no-export community will not be exported to other ASes |
 | no_advertise | routes with no-advertise community will not be advertise to other nodes of my network or other Peers |
 

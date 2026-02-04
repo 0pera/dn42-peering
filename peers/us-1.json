@@ -112,4 +112,13 @@
     "public_key": "oNabDMpFKum4CRbvPcwVE0Y4QsAfH0Sh439dfQYhnkQ=",
     "peer_ipv4": "172.20.209.13",
     "peer_ipv6": "fde4:c438:5e60:4::1"
+},{
+    "name": "yuyuko",
+    "as_num": "4242421117",
+    "end_point": "us01.dn42.yuyuko.com",
+    "end_point_port": "23077",
+    "public_key": "PW/+rv0B8e4tUJ9j1TWscx1sl36WwhPh9adEqoM7Jic=",
+    "ipv6-link-local_remote": "fe80::1117",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]

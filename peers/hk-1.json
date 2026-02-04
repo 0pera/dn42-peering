@@ -113,4 +113,13 @@
     "ipv6-link-local_remote": "fe80::150",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "yuyuko",
+    "as_num": "4242421117",
+    "end_point": "hk02.dn42.yuyuko.com",
+    "end_point_port": "23077",
+    "public_key": "bhqKLKiU0DSjlu5NN9sWk/Ft1qFaQv+aHavS2gLAK3Q=",
+    "ipv6-link-local_remote": "fe80::1117",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
