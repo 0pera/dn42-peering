@@ -3,17 +3,17 @@ config for peering with AS4242423077
 
 # nodes info
 
-| | us-1 | hk-1 | 
-|---|---|---|
-|wireguard_public_key| 2SyET8eMECoQXCH+pRGASj4moNwlexrbXFzPDmex3SI= | aiJkoVGUNJvvBmZ0FPs/4VdfsSLVKgD9xBDvyYwuRFw= | 
-|endpoint| us-1.dn42.ferrets.space | hk-1.dn42.ferrets.space | 
-|endpoint port| 20000+<last 4 digits of you asn> | 20000+<last 4 digits of you asn> | 
-|as_num| 4242423077 | 4242423077 | 
-|ipv4_addr| 172.23.183.129 | 172.23.183.131 | 
-|ipv6_addr| fd48:fa31:502b:10::2(preferred) | fd48:fa31:502b:10::4(preferred) | 
-|ipv6_linklocal| fe80::3077(experimental) | fe80::3077(experimental) | 
-|mp_bgp| disabled as default, enable on request | disabled as default, enable on request | 
-|extend_nexthop| disabled as default, enable on request | disabled as default, enable on request | 
+| | us-1 | hk-1 | de-1 |
+|---|---|---|---|
+|wireguard_public_key| 2SyET8eMECoQXCH+pRGASj4moNwlexrbXFzPDmex3SI= | aiJkoVGUNJvvBmZ0FPs/4VdfsSLVKgD9xBDvyYwuRFw= | N4Fy6nVSGZWa2mHYrZVHZ9m80q5gv5/4zSfDCPxTkHA= |
+|endpoint| us-1.dn42.ferrets.space | hk-1.dn42.ferrets.space | de-1.dn42.ferrets.space |
+|endpoint port| 20000+<last 4 digits of you asn> | 20000+<last 4 digits of you asn> | 20000+<last 4 digits of you asn> | 
+|as_num| 4242423077 | 4242423077 | 4242423077 | 
+|ipv4_addr| 172.23.183.129 | 172.23.183.131 | 172.23.183.132 |
+|ipv6_addr| fd48:fa31:502b:10::2 | fd48:fa31:502b:10::4 | fd48:fa31:502b:10::5 |
+|ipv6_linklocal| fe80::3077 | fe80::3077 | fe80::3077 | 
+|mp_bgp| preferred | preferred | preferred | 
+|extend_nexthop| preferred | preferred | preferred |
 
 # communities info
 ## infomation communities
