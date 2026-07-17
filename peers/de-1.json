@@ -2,7 +2,7 @@
     "name": "kioubit",
     "as_num": "4242423914",
     "end_point": "de2.g-load.eu",
-    "end_point_port": "23077",
+    "end_point_port": "20114",
     "public_key": "B1xSG/XTJRLd+GrWDsB06BqnIq8Xud93YVh/LYYYtUY=",
     "ipv6-link-local_remote": "fe80::ade0",
     "ipv6-link-local_local": "fe80::3077",
