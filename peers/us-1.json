@@ -36,8 +36,9 @@
     "end_point": "las.node.potat0.cc",
     "end_point_port": "23077",
     "public_key": "LUwqKS6QrCPv510Pwt1eAIiHACYDsbMjrkrbGTJfviU=",
-    "peer_ipv4": "172.23.246.3",
-    "peer_ipv6": "fd2c:1323:4042::3"
+    "ipv6-link-local_remote": "fe80::1816",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 },{
     "name": "sunnet",
     "as_num": "4242423088",
