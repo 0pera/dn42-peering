@@ -96,15 +96,6 @@
     "ipv6-link-local_local": "fe80::100",
     "mp_bgp": true
 },{
-    "name": "darkpoint",
-    "as_num": "4242420150",
-    "end_point": "iad.darkpoint.xyz",
-    "end_point_port": "23077",
-    "public_key": "1o0XfQvBM1gqknqzfuOnVmf2RjRTHuyMZYNipSSb2TQ=",
-    "peer_ipv4": "172.20.132.96",
-    "ipv6-link-local_remote": "fe80::150",
-    "ipv6-link-local_local": "fe80::100"
-},{
     "name": "prefixlabs",
     "as_num": "4242421240",
     "end_point": "us-03.prefixlabs.net",
