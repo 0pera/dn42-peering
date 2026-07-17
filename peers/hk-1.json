@@ -49,11 +49,12 @@
 },{
     "name": "whojk",
     "as_num": "4242422717",
-    "end_point": "tw.vm.whojk.com",
-    "end_point_port": "23002",
-    "public_key": "ifN+KmnL5XLHG8nDi2nN9l26snGUP/1157p8mOSPE1c=",
-    "peer_ipv4": "172.22.66.95",
-    "peer_ipv6": "fd94:dba8:42b0:bbbb::1"
+    "end_point": "hk.vm.whojk.com",
+    "end_point_port": "23907",
+    "public_key": "lEB6wKQMqVYbLalwPHHSxL4YhGXOV/w3oG6wQaLB10s=",
+    "ipv6-link-local_remote": "fe80::2717",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 },{
     "name": "kskb",
     "as_num": "4242421817",
