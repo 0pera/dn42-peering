@@ -75,7 +75,7 @@
     "name": "tech9",
     "as_num": "4242421588",
     "end_point": "sg-sin01.dn42.tech9.io",
-    "end_point_port": "57907",
+    "end_point_port": "52824",
     "public_key": "4qLIJ9zpc/Xgvy+uo90rGso75cSrT2F5tBEv+6aqDkY=",
     "ipv6-link-local_remote": "fe80::1588",
     "ipv6-link-local_local": "fe80::100",

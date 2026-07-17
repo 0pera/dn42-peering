@@ -90,7 +90,7 @@
     "name": "tech9",
     "as_num": "4242421588",
     "end_point": "us-chi01.dn42.tech9.io",
-    "end_point_port": "55282",
+    "end_point_port": "59102",
     "public_key": "0kb8ffMcbx8oXZ3Ii5khOuCzmRqM2Cy0IslmrWtRGSk=",
     "ipv6-link-local_remote": "fe80::1588",
     "ipv6-link-local_local": "fe80::100",
