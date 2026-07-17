@@ -92,9 +92,9 @@
     "end_point": "us-chi01.dn42.tech9.io",
     "end_point_port": "55282",
     "public_key": "0kb8ffMcbx8oXZ3Ii5khOuCzmRqM2Cy0IslmrWtRGSk=",
-    "peer_ipv4": "172.20.16.139",
     "ipv6-link-local_remote": "fe80::1588",
-    "ipv6-link-local_local": "fe80::100"
+    "ipv6-link-local_local": "fe80::100",
+    "mp_bgp": true
 },{
     "name": "darkpoint",
     "as_num": "4242420150",
@@ -113,12 +113,12 @@
     "peer_ipv4": "172.20.209.13",
     "peer_ipv6": "fde4:c438:5e60:4::1"
 },{
-    "name": "sdubs",
-    "as_num": "4242420202",
-    "end_point": "dn10.lax.us.sdubs.vip",
+    "name": "yuyuko",
+    "as_num": "4242421117",
+    "end_point": "us01.dn42.yuyuko.com",
     "end_point_port": "23077",
-    "public_key": "7Iif3zxkWZXdBr4jTvTftpZ7B16LyHb4ivPnKMuhoC4=",
-    "peer_ipv4": "172.20.32.10",
-    "ipv6-link-local_remote": "fe80::202:10",
-    "ipv6-link-local_local": "fe80::3077"
+    "public_key": "PW/+rv0B8e4tUJ9j1TWscx1sl36WwhPh9adEqoM7Jic=",
+    "ipv6-link-local_remote": "fe80::1117",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
