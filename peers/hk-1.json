@@ -47,14 +47,6 @@
     "peer_ipv4": "172.22.76.186",
     "peer_ipv6": "fdbc:f9dc:67ad:1::1"
 },{
-    "name": "highdef",
-    "as_num": "4242421080",
-    "end_point": "hkg.peer.highdef.network",
-    "end_point_port": "23077",
-    "public_key": "eedTHubyl5caiHH50GkknQa8SQtAF8q7aqmL26w5qSs=",
-    "peer_ipv4": "172.22.108.38",
-    "peer_ipv6": "fd86:bad:11b7:238::1"
-},{
     "name": "whojk",
     "as_num": "4242422717",
     "end_point": "tw.vm.whojk.com",
