@@ -7,4 +7,13 @@
     "ipv6-link-local_remote": "fe80::ade0",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "tech9",
+    "as_num": "4242421588",
+    "end_point": "de-fra02.dn42.tech9.io",
+    "end_point_port": "50224",
+    "public_key": "MD1EdVe9a0yycUdXCH3A61s3HhlDn17m5d07e4H33S0=",
+    "ipv6-link-local_remote": "fe80::1588",
+    "ipv6-link-local_local": "fe80::100",
+    "mp_bgp": true
 }]
