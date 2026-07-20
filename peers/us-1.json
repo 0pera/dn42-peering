@@ -113,4 +113,13 @@
     "ipv6-link-local_remote": "fe80::1117",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "xkrme",
+    "as_num": "4242421733",
+    "end_point": "las.entry.dn42.hk",
+    "end_point_port": "23077",
+    "public_key": "td/JcMulHppDgcdjf+u8qH6muCfFwhIrMzn0MMKKOSk=",
+    "ipv6-link-local_remote": "fe80::1733",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
