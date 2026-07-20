@@ -16,4 +16,13 @@
     "ipv6-link-local_remote": "fe80::1588",
     "ipv6-link-local_local": "fe80::100",
     "mp_bgp": true
+},{
+    "name": "iedon",
+    "as_num": "4242422189",
+    "end_point": "de-fra.dn42.iedon.net",
+    "end_point_port": "46045",
+    "public_key": "FHp0OR4UpAS8/Ra0FUNffTk18soUYCa6NcvZdOgxY0k=",
+    "ipv6-link-local_remote": "fe80::2189:e9",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
