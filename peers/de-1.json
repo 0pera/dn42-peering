@@ -61,4 +61,13 @@
     "ipv6-link-local_remote": "fe80::3:3999",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "pixia",
+    "as_num": "4242423729",
+    "end_point": "nue1.pixiainfra.pixia.eu.org",
+    "end_point_port": "23077",
+    "public_key": "2n/880OXKFlvu1NU7mWUcHiPM9SfYc8prjNIl90Dj2M=",
+    "ipv6-link-local_remote": "fe80::3729",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
