@@ -43,4 +43,13 @@
     "ipv6-link-local_remote": "fe80::3088:194",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "longhao",
+    "as_num": "4242423088",
+    "end_point": "de1.dn42.ni.sb",
+    "end_point_port": "23077",
+    "public_key": "k9F2akSTkbA/GiO59PNW/v0D65ioMYD4P1DqeKSL3FM=",
+    "ipv6-link-local_remote": "fe80::1888",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
