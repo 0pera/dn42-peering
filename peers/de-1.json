@@ -34,4 +34,13 @@
     "ipv6-link-local_remote": "fe80::1733",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "sunnet",
+    "as_num": "4242423088",
+    "end_point": "ams1-nl.dn42.6700.cc",
+    "end_point_port": "23077",
+    "public_key": "AgXewx4akBG9QI9ClbJMcflmDY1rsdOslRTI/CL4PHk=",
+    "ipv6-link-local_remote": "fe80::3088:194",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
