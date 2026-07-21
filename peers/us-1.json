@@ -122,4 +122,13 @@
     "ipv6-link-local_remote": "fe80::1733",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "charliemoomoo",
+    "as_num": "4242423999",
+    "end_point": "lax.node.cowgl.tech",
+    "end_point_port": "23077",
+    "public_key": "jhOukGNAKHI8Ivn8uI1TS25n5ho/rVlKFfenGmwCVlg=",
+    "ipv6-link-local_remote": "fe80::2:3999",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
