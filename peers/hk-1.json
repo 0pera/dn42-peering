@@ -126,4 +126,13 @@
     "ipv6-link-local_remote": "fe80::3729",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "baka",
+    "as_num": "4242423374",
+    "end_point": "hk01.dn42.baka.pub",
+    "end_point_port": "23077",
+    "public_key": "zcxhWeI3SrJtqlHuqdeNaCeWSwJIYOTjAraXm655+VY=",
+    "ipv6-link-local_remote": "fe80::2999:225",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
