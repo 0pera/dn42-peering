@@ -140,4 +140,13 @@
     "ipv6-link-local_remote": "fe80::2999:229",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "maraun",
+    "as_num": "4242422225",
+    "end_point": "dn42-us1.maraun.de",
+    "end_point_port": "23077",
+    "public_key": "J+c8pHMjDVBanpg2kLLmEkVSYSo5vCUGNLPdGcNoJRw=",
+    "ipv6-link-local_remote": "fe80::2225",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
