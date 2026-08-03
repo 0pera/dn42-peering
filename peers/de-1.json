@@ -22,8 +22,7 @@
     "end_point": "de-fra.dn42.iedon.net",
     "end_point_port": "46045",
     "public_key": "FHp0OR4UpAS8/Ra0FUNffTk18soUYCa6NcvZdOgxY0k=",
-    "ipv6-link-local_remote": "fe80::2189:e9",
-    "ipv6-link-local_local": "fe80::3077",
+    "peer_ipv6": "fd42:4242:2189:e9::1",
     "mp_bgp": true
 },{
     "name": "xkrme",
