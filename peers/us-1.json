@@ -12,8 +12,9 @@
     "end_point": "us-sjc.dn42.iedon.net",
     "end_point_port": "45110",
     "public_key": "Sz0UhewjDk2yRKI0QL9rB+5daWpXFVlbbz9cLfVVLn4=",
-    "peer_ipv4": "172.23.91.117",
-    "peer_ipv6": "fd42:4242:2189:e8::1"
+    "ipv6-link-local_remote": "fe80::2189:e8",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 },{
     "name": "lare",
     "as_num": "4242423035",
