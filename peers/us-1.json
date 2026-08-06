@@ -4,8 +4,9 @@
     "end_point": "us3.g-load.eu",
     "end_point_port": "23077",
     "public_key": "sLbzTRr2gfLFb24NPzDOpy8j09Y6zI+a7NkeVMdVSR8=",
-    "peer_ipv4": "172.20.53.103",
-    "peer_ipv6": "fdfc:e23f:fb45:3234::9"
+    "ipv6-link-local_remote": "fe80::ade0",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 },{
     "name": "iedon",
     "as_num": "4242422189",
