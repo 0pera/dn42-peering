@@ -21,8 +21,9 @@
     "end_point": "usw1.dn42.lare.cc",
     "end_point_port": "23077",
     "public_key": "Qd2XCotubH4QrQIdTZjYG4tFs57DqN7jawO9vGz+XWM=",
-    "peer_ipv4": "172.22.125.132",
-    "peer_ipv6": "fd63:5d40:47e5::132"
+    "ipv6-link-local_remote": "fe80::3035:132",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 },{
     "name": "routebits",
     "as_num": "4242420207",
