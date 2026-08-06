@@ -105,4 +105,13 @@
     "ipv6-link-local_remote": "fe80::3035:130",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "routebits",
+    "as_num": "4242420207",
+    "end_point": "router.fra1.routedbits.com",
+    "end_point_port": "53077",
+    "public_key": "FIk95vqIJxf2ZH750lsV1EybfeC9+V8Bnhn8YWPy/l8=",
+    "ipv6-link-local_remote": "fe80::207",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]

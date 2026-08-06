@@ -30,8 +30,9 @@
     "end_point": "router.sin1.routedbits.com",
     "end_point_port": "53077",
     "public_key": "8sTnWN7ykPaDe1WIZOlnqECiGMJzwXB8TXWHcT7qnEw=",
-    "peer_ipv4": "172.20.19.81",
-    "peer_ipv6": "fdb1:e72a:343d::12"
+    "ipv6-link-local_remote": "fe80::207",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 },{
     "name": "sunnet",
     "as_num": "4242423088",

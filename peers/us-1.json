@@ -30,8 +30,9 @@
     "end_point": "router.fnc1.routedbits.com",
     "end_point_port": "53077",
     "public_key": "yZvBa83e7ywrZearK1nuAL37gVY1vbVBWbRdIj7HVEo=",
-    "peer_ipv4": "172.20.19.70",
-    "peer_ipv6": "fdb1:e72a:343d::7"
+    "ipv6-link-local_remote": "fe80::207",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 },{
     "name": "potat0",
     "as_num": "4242421816",
