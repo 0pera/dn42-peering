@@ -21,8 +21,9 @@
     "end_point": "jp01.dn42.lare.cc",
     "end_point_port": "23077",
     "public_key": "oTPdRylNhX2O80e6rLejT9Fwzo7KWKZ7a3PUF4G9oEM=",
-    "peer_ipv4": "172.22.125.134",
-    "peer_ipv6": "fd63:5d40:47e5::134"
+    "ipv6-link-local_remote": "fe80::3035:134",
+    "ipv6-link-local_local": "fe80::100",
+    "mp_bgp": true
 },{
     "name": "routebits",
     "as_num": "4242420207",
