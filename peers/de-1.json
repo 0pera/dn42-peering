@@ -87,4 +87,13 @@
     "ipv6-link-local_remote": "fe80::2225",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "highdef",
+    "as_num": "4242421080",
+    "end_point": "fra.peer.highdef.network",
+    "end_point_port": "23077",
+    "public_key": "oiSSSOMYxiiM0eQP9p8klwEfNn34hkNNv4S289WUciU=",
+    "ipv6-link-local_remote": "fe80::117",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
