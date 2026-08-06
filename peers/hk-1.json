@@ -22,7 +22,7 @@
     "end_point_port": "23077",
     "public_key": "oTPdRylNhX2O80e6rLejT9Fwzo7KWKZ7a3PUF4G9oEM=",
     "ipv6-link-local_remote": "fe80::3035:134",
-    "ipv6-link-local_local": "fe80::100",
+    "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
 },{
     "name": "routebits",
