@@ -117,7 +117,7 @@
 },{
     "name": "whojk",
     "as_num": "4242422717",
-    "end_point": "usw.vm.whojk.com",
+    "end_point": "de.vm.whojk.com",
     "end_point_port": "24041",
     "public_key": "rS+EVSpHhBW7nXv0m/Vw2I/tujwZUEyxZmV51k7Wkzw=",
     "ipv6-link-local_remote": "fe80::2717",
