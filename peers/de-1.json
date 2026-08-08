@@ -123,4 +123,13 @@
     "ipv6-link-local_remote": "fe80::2717",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "s6v",
+    "as_num": "4242423432",
+    "end_point": "ams1.dn42.s6v.net",
+    "end_point_port": "42059",
+    "public_key": "OSR6LHpDD6H383P20lLZ64k/ah7pazVmxDGVmHcorUo=",
+    "ipv6-link-local_remote": "fe80::3432",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
