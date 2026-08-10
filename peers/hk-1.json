@@ -102,15 +102,6 @@
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
 },{
-    "name": "xkrme",
-    "as_num": "4242421733",
-    "end_point": "hkg1.entry.dn42.hk",
-    "end_point_port": "23077",
-    "public_key": "kceZbHZekCVvlC8ZU+C3XZAe1WQ7T5vsi8Ec94+MMm8=",
-    "ipv6-link-local_remote": "fe80::1733",
-    "ipv6-link-local_local": "fe80::3077",
-    "mp_bgp": true
-},{
     "name": "charliemoomoo",
     "as_num": "4242423999",
     "end_point": "hkg.node.cowgl.tech",
@@ -144,6 +135,15 @@
     "end_point_port": "42025",
     "public_key": "ImWP5cA8Jt1LdzjOkO2J9cnhvpBvmeU5IN4mjJj//CM=",
     "ipv6-link-local_remote": "fe80::3432",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
+},{
+    "name": "sidereal",
+    "as_num": "4242422016",
+    "end_point": "sin1.dn42.sidereal.ca",
+    "end_point_port": "23077",
+    "public_key": "V9+Lxlqn3scNI7hkULY3NsHbI/s1weObxLy0R2SLQjI=",
+    "ipv6-link-local_remote": "fe80::2016",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
 }]

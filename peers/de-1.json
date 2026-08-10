@@ -25,15 +25,6 @@
     "peer_ipv6": "fd42:4242:2189:e9::1",
     "mp_bgp": true
 },{
-    "name": "xkrme",
-    "as_num": "4242421733",
-    "end_point": "nue.entry.dn42.hk",
-    "end_point_port": "23077",
-    "public_key": "Q7pleX/k7NKlhUMJUaKwF2b7MQifriTcsu5uCKyVEHk=",
-    "ipv6-link-local_remote": "fe80::1733",
-    "ipv6-link-local_local": "fe80::3077",
-    "mp_bgp": true
-},{
     "name": "sunnet",
     "as_num": "4242423088",
     "end_point": "ams1-nl.dn42.6700.cc",
@@ -130,6 +121,15 @@
     "end_point_port": "42059",
     "public_key": "OSR6LHpDD6H383P20lLZ64k/ah7pazVmxDGVmHcorUo=",
     "ipv6-link-local_remote": "fe80::3432",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
+},{
+    "name": "sidereal",
+    "as_num": "4242422016",
+    "end_point": "fsn1.dn42.sidereal.ca",
+    "end_point_port": "23077",
+    "public_key": "Lqmjk6hqNdReob93K6iYnzwvbWadJKaT/cL96ij2Fm4=",
+    "ipv6-link-local_remote": "fe80::2016",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
 }]
