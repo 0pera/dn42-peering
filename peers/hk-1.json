@@ -111,6 +111,15 @@
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
 },{
+    "name": "potat0",
+    "as_num": "4242421816",
+    "end_point": "hkg.node.potat0.cc",
+    "end_point_port": "23077",
+    "public_key": "Tv1+HniELrS4Br2i7oQgwqBJFXQKculsW8r+UOqQXH0=",
+    "ipv6-link-local_remote": "fe80::1816",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
+},{
     "name": "baka",
     "as_num": "4242423374",
     "end_point": "hk01.dn42.baka.pub",
