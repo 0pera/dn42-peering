@@ -123,4 +123,13 @@
     "ipv6-link-local_remote": "fe80::2016",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "iris",
+    "as_num": "4242421023",
+    "end_point": "ams-01.node.svc.moe",
+    "end_point_port": "23077",
+    "public_key": "EERaAzJ1oDMhWZCMIWbK4Gd523BDM2YlV1O7AB1th1Y=",
+    "ipv6-link-local_remote": "fe80::1023:2",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
