@@ -146,4 +146,13 @@
     "ipv6-link-local_remote": "fe80::2016",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "achsulfate",
+    "as_num": "4242423310",
+    "end_point": "v4.hkg01.edge.r1.tmpfs.dev",
+    "end_point_port": "23077",
+    "public_key": "aC9pjzMWZhbA/sLPljUFGU1K28MSopHbKNj5yyv4uzg=",
+    "ipv6-link-local_remote": "fe80::3077:3310",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
