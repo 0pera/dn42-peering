@@ -61,9 +61,9 @@
 },{
     "name": "whojk",
     "as_num": "4242422717",
-    "end_point": "usw2.vm.whojk.com",
-    "end_point_port": "24215",
-    "public_key": "SpnH/BlVNDx5QiMxHhuF4i8hKr5qWMxnPYky6Mp4fEA=",
+    "end_point": "usw.vm.whojk.com",
+    "end_point_port": "23124",
+    "public_key": "L4+efr10ZM0J80nDeO5mHw25nq9LC5UBrYtP8T1I9n4=",
     "ipv6-link-local_remote": "fe80::2717",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
