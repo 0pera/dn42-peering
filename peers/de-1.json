@@ -132,4 +132,13 @@
     "ipv6-link-local_remote": "fe80::1023:2",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "sabrinaishere",
+    "as_num": "4242421810",
+    "end_point": "de42.sabrinaishere.party",
+    "end_point_port": "23077",
+    "public_key": "hxfukVZizPWmH35E7PaOoT3LOKlbGYvDhHgufaIFr1I=",
+    "ipv6-link-local_remote": "fe80::1810",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
