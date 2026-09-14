@@ -164,4 +164,13 @@
     "ipv6-link-local_remote": "fe80::1810",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "headscarf175",
+    "as_num": "4242420842",
+    "end_point": "hk-hkg01.headscarf175.net",
+    "end_point_port": "23077",
+    "public_key": "uj6uvqPX3PJTFIXPPV8Ot1BJRwqFSkkrufnRSMdbfQQ=",
+    "ipv6-link-local_remote": "fe80::842",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]

@@ -180,4 +180,13 @@
     "ipv6-link-local_remote": "fe80::1810",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "headscarf175",
+    "as_num": "4242420842",
+    "end_point": "us-lax02.headscarf175.net",
+    "end_point_port": "23077",
+    "public_key": "imSWj+9tYCDkj8mvwXFIm/HkusbkQyRbbnghwwXLlRo=",
+    "ipv6-link-local_remote": "fe80::842",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
