@@ -150,4 +150,13 @@
     "ipv6-link-local_remote": "fe80::842",
     "ipv6-link-local_local": "fe80::3077",
     "mp_bgp": true
+},{
+    "name": "slop",
+    "as_num": "4242420125",
+    "end_point": "45.150.123.24",
+    "end_point_port": "23077",
+    "public_key": "sgYSxYeBQX9IMbcj7zv6UxYYq7QQPDfMdaxHFlTeckY=",
+    "ipv6-link-local_remote": "fe80::125",
+    "ipv6-link-local_local": "fe80::3077",
+    "mp_bgp": true
 }]
